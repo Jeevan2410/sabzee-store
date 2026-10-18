@@ -2,6 +2,8 @@
 
 **Live demo:** [sabzee.vercel.app](https://sabzee.vercel.app)
 
+![Sabzee home page: farm-fresh sabzi delivered in 30 minutes](docs/screenshot.jpg)
+
 A production-style e-commerce web app for ordering vegetables, fruits, leafy greens and herbs — inspired by quick-commerce apps like Blinkit and Zepto.
 
 **Tech:** Next.js 16 (App Router, Cache Components) · React 19 · TypeScript · Tailwind CSS v4 · Zustand · Lucide icons
